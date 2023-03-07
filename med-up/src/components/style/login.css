@@ -1,0 +1,16 @@
+.test{
+    color: black;
+    font-size: large;
+}
+.login-form{
+    padding: 20%;
+display: flex;
+flex-direction: column;
+gap: 20px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    gap: 20px;
+}
